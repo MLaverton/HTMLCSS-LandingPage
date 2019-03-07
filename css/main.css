@@ -76,7 +76,8 @@ section{
   border-bottom: 1px solid #a0a0a0;
 }
 .brand{
-  size:170px 85px;
+  width: 170px;
+  height:85px;
   margin: 0 60px 0 -15px
 }
 .logo{
